@@ -12,3 +12,6 @@ Utlizing:
   7. Meterpreter
   8. Escalating Access
   9. Compromising Admin
+  10. Reflected XSS
+  11. Lateral Movement
+  12. SQL Injection
