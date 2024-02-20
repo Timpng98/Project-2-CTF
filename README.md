@@ -1,4 +1,4 @@
-# Project-2-CTF
+# Project-2-Capture-The-Flag
 
 This is a capture the flag from the fake website ReKall Corporation and their servers using the MITRE ATT&cK as well as Lockheed Martin Framework
 
