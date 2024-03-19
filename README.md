@@ -17,3 +17,4 @@ Utlizing:
   12. SQL Injection
   13. MITRE ATT&CK
   14. TTP's
+  15. Common Vulnerability and Exposure (CVE) Score
