@@ -16,5 +16,5 @@ Utlizing:
   11. Lateral Movement
   12. SQL Injection
   13. MITRE ATT&CK
-  14. TTP's
+  14. MITRE Adversary Tactics, Techniques, and Procedures (TTPs)
   15. Common Vulnerability and Exposure (CVE) Score
